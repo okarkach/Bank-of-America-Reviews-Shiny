@@ -1,0 +1,18 @@
+# Bank of America Itunes App Analytics
+
+
+## Description
+The intent of this dashboard is to visualize and monitor the user interaction with the app through conducting sentiment analysis, emotional analysis, rating average over time, and Word Cloud. The results of this analysis enable encovering potential issues and addressing them as well as responsing to customer concerns and/or requests for additional features.
+
+### Memo on Word Cloud Usage and Benefits:
+The Word Cloud implemented in this app is tweakable and enables the choice of frequencies, maximun word display as well as  three levels of granularity:
+* Uni-Gram: Display of frequencies using one word
+* Bi-Gram: Display of frequencies using a combination of two words
+* Tri-Gram: Display of frequencies using a combination of three words
+* Quadra-Gram: Display of frequencies using a combination of four words
+
+The benefit of using Word Clouds lies in the ability to visualize and identify common themes present in the corpus of reviews. At the time of writing, the common theme that we indentified was of customers reporting that the app was crashing after the update to version 8.1 in the Itunes store for IOS devices.
+The emotional analysis suggests that customers are anticipating an action from the developers to fix the bugs as supported by a high anticipation score.
+
+### Note: 
+Please visualize the dashboard in full screen mode for a better experience.
